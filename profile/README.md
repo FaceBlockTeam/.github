@@ -4,416 +4,71 @@
 
 ### Proof of Artificial Intelligence
 
-### An Intelligence Asset Protocol for Decentralized Intelligence Evolution
+**The Protocol for Intelligence Assets and AI Brains**
 
-*"From Computation to Intelligence."*
+*One Human • One AI Brain • One Intelligence Asset*
 
-[![Paper](https://img.shields.io/badge/Paper-PoAI%202.0-blue)](#)
-[![License](https://img.shields.io/badge/License-Apache%202.0-green)](#)
-[![Language](https://img.shields.io/badge/Language-English%20%7C%20中文-orange)](#)
+---
+
+**Building the infrastructure for the Intelligence Age.**
+
+[📄 Paper](./paper) • [📚 Documentation](./docs) • [📐 Specifications](./specs)
 
 </div>
 
 ---
 
-# Vision
+## What is PoAI?
 
-Artificial Intelligence is becoming the fundamental production resource of the next civilization.
+PoAI is an open protocol for representing, evolving, and exchanging intelligence as a new class of digital assets.
 
-However, today's AI ecosystem is still built around isolated models, proprietary data, centralized platforms, and non-transferable knowledge.
+Instead of treating AI as isolated models or software, PoAI introduces three fundamental primitives:
 
-PoAI introduces a new primitive:
+- **AI Brain** – a lifelong, continuously evolving intelligence companion for every individual.
+- **Intelligence Asset** – reusable, composable, and ownable representations of skills, knowledge, memory, and reasoning.
+- **World Intelligence Model** – a shared intelligence space where humans and AI collaboratively learn, contribute, and evolve.
 
-> **Intelligence as an Asset.**
-
-Instead of treating AI as software, PoAI treats intelligence itself as a programmable, reusable, composable, and evolving digital asset.
-
-The objective of PoAI is to build the world's first **Intelligence Asset Network**.
+PoAI aims to build a decentralized intelligence network where every contribution expands the collective intelligence of humanity.
 
 ---
 
-# Why PoAI?
+## Vision
 
-Bitcoin transformed energy into digital assets.
+The Internet connected computers.
 
-Ethereum transformed computation into programmable assets.
+AI connects models.
 
-PoAI transforms intelligence into digital assets.
+PoAI connects intelligence.
 
-```
-Energy
-        ↓
- Digital Asset
+We believe the next generation of digital infrastructure should enable everyone to own an evolving AI Brain, build reusable Intelligence Assets, and participate in a global intelligence economy.
 
-Computation
-        ↓
- Smart Contract
-
-Intelligence
-        ↓
- Intelligence Asset
-```
-
-Instead of asking:
-
-> "Who owns the computation?"
-
-PoAI asks:
-
-> "Who owns, evolves, and contributes intelligence?"
+**One Human. One AI Brain. One Intelligence Asset.**
 
 ---
 
-# Core Principles
+## Research Areas
 
-PoAI is founded on five principles.
-
-## 1. Intelligence Asset
-
-Every human or AI possesses reusable intelligence.
-
-PoAI represents intelligence as a digital asset composed of:
-
-- Skills
-- Memory
-- Reasoning
-- Knowledge
-- Reputation
-- Evolution
-
-This unified representation is called an **Intelligence Asset (IA)**.
-
----
-
-## 2. AI Brain
-
-Instead of viewing LLMs as token generators, PoAI models every intelligent entity as an **AI Brain**.
-
-```
-AI Brain
-
-=
-
-Skill Tensor
-
-+
-
-Memory Graph
-
-+
-
-Reasoning Policy
-
-+
-
-Evolution State
-```
-
-Every AI Brain continuously learns, evolves, and accumulates value.
-
----
-
-## 3. Intelligence Evolution
-
-PoAI does not reward static capability.
-
-It rewards measurable intelligence evolution.
-
-```
-Brain(t)
-
-↓
-
-Learning
-
-↓
-
-Memory Update
-
-↓
-
-Skill Update
-
-↓
-
-Brain(t+1)
-```
-
-The objective is not simply producing better answers.
-
-The objective is producing better intelligence.
-
----
-
-## 4. Intelligence Capital
-
-Intelligence is more than model parameters.
-
-PoAI introduces Intelligence Capital:
-
-```
-Intelligence Capital
-
-=
-
-Algorithmic Intelligence
-
-+
-
-Human Expertise
-
-+
-
-Knowledge
-
-+
-
-Social Capital
-
-+
-
-Evolution
-```
-
-Intelligence becomes an economic resource.
-
----
-
-## 5. Intelligence Civilization
-
-PoAI envisions a decentralized civilization where humans and AI co-create intelligence.
-
-```
-Internet
-
-↓
-
-AI
-
-↓
-
-Agents
-
-↓
-
-Intelligence Assets
-
-↓
-
-Intelligence Civilization
-```
-
----
-
-# Architecture
-
-```
-                 Intelligence Civilization
-
-                            │
-
-                 Intelligence Economy
-
-                            │
-
-                Intelligence Asset Layer
-
-                            │
-
-            Intelligence Evolution Consensus
-
-                            │
-
-          AI Brain + Humans + Organizations
-
-                            │
-
-       Models · Skills · Memory · Knowledge
-```
-
----
-
-# Intelligence Asset
-
-Unlike software, Intelligence Assets are:
-
-- Ownable
-- Reusable
-- Composable
-- Evolvable
-- Transferable
-- Traceable
-
-An Intelligence Asset may represent:
-
-- Programming ability
-- Mathematical reasoning
-- Financial expertise
-- Scientific knowledge
-- Medical diagnosis
-- Legal reasoning
-- Creative writing
-- Autonomous agents
-
-Future digital markets will trade intelligence instead of software.
-
----
-
-# AI Brain
-
-The AI Brain is the fundamental execution unit inside PoAI.
-
-Each AI Brain contains:
-
-```
-AI Brain
-
-├── Language Skills
-├── Reasoning Engine
-├── Memory
-├── Knowledge Graph
-├── Planning Policy
-├── Evolution History
-└── Intelligence Assets
-```
-
-Unlike traditional LLMs, AI Brains continuously evolve through interaction and experience.
-
----
-
-# Intelligence Asset Lifecycle
-
-```
-Creation
-
-      ↓
-
-Verification
-
-      ↓
-
-Ownership
-
-      ↓
-
-Reuse
-
-      ↓
-
-Composition
-
-      ↓
-
-Evolution
-
-      ↓
-
-Trading
-
-      ↓
-
-New Intelligence
-```
-
----
-
-# Roadmap
-
-## Phase I
-
-- Intelligence Asset Protocol
-- AI Brain Model
-- Skill Representation
-- Intelligence Tensor
-
-## Phase II
-
-- Intelligence Evolution Protocol
-- Recursive Learning
-- Asset Composition
-- Knowledge Reuse
-
-## Phase III
-
-- Intelligence Asset Marketplace
-- AI Brain Network
-- Agent Collaboration
-- Intelligence Economy
-
-## Phase IV
-
-- Global Intelligence Asset Network
-- Autonomous AI Organizations
-- Intelligence Civilization
-
----
-
-# Repository Structure
-
-```
-paper/
-    PoAI_2.0_EN.md
-    PoAI_2.0_CN.md
-
-specs/
-    protocol.md
-    asset.md
-    consensus.md
-    ai_brain.md
-
-docs/
-    whitepaper/
-    figures/
-
-reference/
-
-examples/
-```
-
----
-
-# Research Topics
-
-Current research focuses include:
-
-- Intelligence Asset Theory
+- Intelligence Assets
 - AI Brain Architecture
+- World Intelligence Models
 - Recursive Intelligence Evolution
-- Skill Composition
-- Knowledge Reuse
-- Social Capital
-- Intelligence Economy
-- Agent Collaboration
-- Decentralized AI Systems
+- Multi-Agent Intelligence
+- Intelligence Economics
+- Human–AI Collaboration
 
 ---
 
-# Citation
+## Repository
 
-```bibtex
-@article{PoAI2026,
-  title={PoAI: Proof of Artificial Intelligence},
-  subtitle={An Intelligence Asset Protocol for Decentralized Intelligence Evolution},
-  year={2026}
-}
+```
+paper/      Research papers
+specs/      Protocol specifications
+docs/       Documentation
+examples/   Examples and demos
 ```
 
 ---
 
-# License
+## License
 
 Apache-2.0
-
----
-
-# Vision Statement
-
-PoAI is not another blockchain.
-
-PoAI is not another AI model.
-
-PoAI is an attempt to establish a universal protocol for representing, evolving, and exchanging intelligence as a new class of digital assets.
-
-The long-term objective is simple:
-
-> **Build the foundation of the global Intelligence Asset Network.**
